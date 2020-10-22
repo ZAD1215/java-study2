@@ -1,20 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54ee0a11-8230-428f-ab5c-d447a4830da3" name="Default Changelist" comment="" />
+    <list default="true" id="54ee0a11-8230-428f-ab5c-d447a4830da3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/HomeWork/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/HomeWork/HarDisk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/HomeWork/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/HomeWork/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_2/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_3/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_10/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_10/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_10/B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_10/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_10/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_11/Example4_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_12/Example4_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_13/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_14/Example4_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_15/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_15/Example4_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_16/AAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_17/Example4_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_18/Example4_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_19/Example4_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_20/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_21/Example4_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_21/TestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_21/TestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_22/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_22/Circular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_22/Example4_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_23/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_23/Circular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_23/Example4_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_3/Example4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_4/EXample4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_4/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_5/Circular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_5/Example4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_6/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_6/Example4_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_7/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_7/Example4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_7/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_7/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_8/Example4_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_8/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_9/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_9/Example4_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Example1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Hello1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Hello2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Speak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study/Xiti4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Example2_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study2/Weekday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_10$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Example3_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study3/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study4/Example4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study4/Example4_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study4/PersonName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study/com/java/study4/XiyoujiRenwu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_1/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/Hello1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/Hello2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study1/Example1_2/Example1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/Speak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_1/Example2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_2/Example2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_3/Example2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_4/Example2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_5/Example2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_6/Example2_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_7/Example2_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_8/Example2_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study2/Example2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study2/Example2_9/Example2_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_1/Example3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_10/Example3_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_2/Example3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Examaple3_3/Example3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_4/Example3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_5/Example3_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_6/Example3_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_7/Example3_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_8/Example3_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study3/Example3_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study3/Example3_9/Example3_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study4/Example4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_1/Example4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study4/Example4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study4/Example4_2/Example4_2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iGDc0eIQLgx04r3HSDZOkpJQUp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -31,14 +166,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Example4_1">
-    <configuration name="Example3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study3.Example3_10" />
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Example1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study.study1.Example1_2.Example1_2" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study3.*" />
+          <option name="PATTERN" value="com.java.study.study1.Example1_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study3.Example3_8" />
+    <configuration name="Example4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study4.Example4_12.Example4_12" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study3.*" />
+          <option name="PATTERN" value="com.java.study4.Example4_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study3.Example3_9" />
+    <configuration name="Example4_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study4.Example4_17.Example4_17" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study3.*" />
+          <option name="PATTERN" value="com.java.study4.Example4_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study4.Example4_1" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study.study1.Example1_1.Hello" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study4.*" />
+          <option name="PATTERN" value="com.java.study.study1.Example1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study4.Example4_2" />
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.HomeWork.Text" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study4.*" />
+          <option name="PATTERN" value="com.java.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +239,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example4_1" />
-        <item itemvalue="Application.Example4_2" />
-        <item itemvalue="Application.Example3_10" />
-        <item itemvalue="Application.Example3_9" />
-        <item itemvalue="Application.Example3_8" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Example1_2" />
+        <item itemvalue="Application.Text" />
+        <item itemvalue="Application.Example4_17" />
+        <item itemvalue="Application.Example4_12" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -123,6 +265,15 @@
       <workItem from="1601968831115" duration="37000" />
       <workItem from="1601968939329" duration="2330000" />
       <workItem from="1602077171975" duration="9980000" />
+      <workItem from="1602115687761" duration="1483000" />
+      <workItem from="1602125602054" duration="2391000" />
+      <workItem from="1602165775453" duration="290000" />
+      <workItem from="1602679954038" duration="1613000" />
+      <workItem from="1602691330683" duration="2700000" />
+      <workItem from="1603283796763" duration="137000" />
+      <workItem from="1603288048349" duration="8239000" />
+      <workItem from="1603320116327" duration="2095000" />
+      <workItem from="1603325099242" duration="1873000" />
     </task>
     <servers />
   </component>
@@ -130,26 +281,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601973536881">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1603290499762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601973536881" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1602087178068">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603290499762" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602128054005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602087178068" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1602087178068">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602128054005" />
+    <state width="1492" height="203" key="GridCell.Tab.0.bottom" timestamp="1603326973097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602087178068" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1602087178068">
+    <state width="1492" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603326973097" />
+    <state width="1492" height="203" key="GridCell.Tab.0.center" timestamp="1603326973097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602087178068" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1602087178068">
+    <state width="1492" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603326973097" />
+    <state width="1492" height="203" key="GridCell.Tab.0.left" timestamp="1603326973097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602087178068" />
+    <state width="1492" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603326973097" />
+    <state width="1492" height="203" key="GridCell.Tab.0.right" timestamp="1603326973097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603326973097" />
     <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1602087178068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -166,17 +321,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602087178068" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1601968939632">
+    <state x="182" y="56" key="SettingsEditor" timestamp="1602128054647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601968939632" />
+    <state x="182" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602128054647" />
+    <state width="396" height="446" key="SwitcherDM" timestamp="1603296262162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="396" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1603296262162" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1603325143511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603325143511" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603325207028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603325207028" />
     <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1602082589124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602082589124" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602080835632">
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1602691924041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602080835632" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1602691924041" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603325237247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603325237247" />
   </component>
 </project>
